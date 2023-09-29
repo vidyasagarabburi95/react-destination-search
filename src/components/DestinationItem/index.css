@@ -1,0 +1,17 @@
+.card-container {
+  list-style-type: none;
+  width: auto;
+  padding: 5px;
+}
+.image-card {
+  height: 150px;
+  width: 200px;
+  margin: 10px;
+}
+.name {
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: bolder;
+  margin: 10px;
+  color: #0f172a;
+}
